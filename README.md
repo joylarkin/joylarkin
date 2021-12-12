@@ -2,7 +2,7 @@
 
 - 💬 Ask me about tech, marketing, startups.
 
-- 📫 How to reach me: I'm [@joy](https://twitter.com/joy) on Twitter.
+- 📫 I'm [@joy](https://twitter.com/joy) on Twitter.
 
 
 
