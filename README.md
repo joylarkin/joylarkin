@@ -1,6 +1,8 @@
 ### Welcome
 
-- 💬 Ask me about tech, marketing, startups.
+- 👩‍💻 Currently working on marketing and some evangelism at ZeroTier. 
+
+- 💬 Ask me about tech, marketing, startups, web3.
 
 - 📫 I'm [@joy](https://twitter.com/joy) on Twitter.
 
