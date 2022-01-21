@@ -4,7 +4,9 @@
 
 - 💬 Ask me about tech, marketing, startups, web3.
 
-- 📫 I'm [@joy](https://twitter.com/joy) on Twitter.
+- 📜 I was probably on the Internet 🌐 way before you. 
+
+- 📫 I'm [@joy](https://twitter.com/joy) on Twitter (say hi!).
 
 
 
