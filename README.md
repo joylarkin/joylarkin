@@ -2,7 +2,7 @@
 
 - 👩‍💻 Currently working on global marketing, community, and evangelism at ZeroTier. 
 
-- 💬 Ask me about tech, marketing, startups, web3.
+- 💬 Ask me about tech, marketing, startups, OSS, decentralization, web3.
 
 - 📜 I was probably on the Internet 🌐 way before you. 
 
