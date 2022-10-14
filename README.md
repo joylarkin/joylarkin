@@ -1,12 +1,13 @@
 ### Welcome
 
-- 👩‍💻 Currently working on global marketing, community, and evangelism at ZeroTier. 
+- 👩‍💻 Currently working on global marketing, community, and evangelism at ⏁ ZeroTier. 
 
 - 💬 Ask me about tech, marketing, startups, OSS, decentralization, web3.
 
 - 📜 I was probably on the Internet 🌐 way before you. 
 
 - 📫 I'm [@joy](https://twitter.com/joy) on Twitter or [@joy@mastodon.social](https://mastodon.social/@joy) on Mastodon... Say hello!
+
 
 
 
