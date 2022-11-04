@@ -6,7 +6,7 @@
 
 - 📜 I was probably on the Internet 🌐 way before you. 
 
-- 📫 I'm [@joy](https://twitter.com/joy) on Twitter or <a rel="me" href="https://mastodon.social/@joy">@joy@mastodon.social</a> on Mastodon... Say hello!
+- 📫 I'm [@joy](https://twitter.com/joy) on Twitter or <a rel="me" href="https://mastodon.social/@joy">@joy on mastodon.social</a>... Say hello!
 
 
 
