@@ -8,7 +8,7 @@
 
 - 🔗 My personal site is <a rel="me" href="https://cleverhack.com" target="_blank">cleverhack dot com</a>. I self-host a few web pages, run my own mailserver, and cleverhack is where I used to self-host some blogs on various platforms (Movable Type, WordPress). 
 
-- 📫 I'm <a rel="me" href="https://mastodon.social/@joy" target="_blank">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy" target="_blank">@joy</a> on Twitter ... Say hello!
+- 📫 I'm <a rel="me" href="https://mastodon.social/@joy" target="_blank">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy" target="_blank">@joy on Twitter</a> ... Say hello!
 
 
 
