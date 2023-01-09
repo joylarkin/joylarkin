@@ -2,13 +2,13 @@
 
 - 👩🏻‍💻 Currently working on global marketing, community, and evangelism at ⏁ ZeroTier. 
 
-- 💬 Ask me about tech, marketing, startups, OSS, decentralization, web3.
+- 💬 Ask me about tech, marketing, startups, OSS, community building, decentralization, web3.
 
 - 📜 I was probably on the Internet 🌐 way before you. 
 
-- 🔗 My personal site is <a rel="me" href="https://cleverhack.com">cleverhack dot com</a>
+- 🔗 My personal site is <a rel="me" href="https://cleverhack.com">cleverhack dot com</a>. I self-host a few web pages, run my own mailserver, and it is where I used to self-host some blogs on various platforms (Movable Type, WordPress). 
 
-- 📫 I'm <a rel="me" href="https://mastodon.social/@joy">@joy on mastodon.social</a> or [@joy](https://twitter.com/joy) on Twitter ... Say hello!
+- 📫 I'm <a rel="me" href="https://mastodon.social/@joy">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy">@joy</a> on Twitter ... Say hello!
 
 
 
