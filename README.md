@@ -1,14 +1,15 @@
-### Welcome (Later 2023 Version)
+### Welcome (2024 Version)
+
+- 💬 Ask me about tech, marketing, startups, open source, community building, decentralization, web3, or artificial intelligence. Or maybe even ask me about starting a new thing. 👀
 
 - 👩🏻‍💻 Currently working on global marketing, community, and evangelism at ⏁ ZeroTier. 
 
-- 💬 Ask me about tech, marketing, startups, open source, community building, decentralization, web3, AI. Or maybe even ask me about starting a new thing. 👀
-
 - 📜 I was probably on the Internet 🌐 way before you. 😉
 
-- 🔗 My personal site is <a rel="me" href="https://cleverhack.com" target="_blank">cleverhack dot com</a>. Cleverhack is where I self-host a few web pages, run my own mailserver, and where I previously self-hosted blogs on various platforms (Movable Type, WordPress). 
+- 🔗 My personal site is <a rel="me" href="https://cleverhack.com" target="_blank">cleverhack dot com</a>. 
 
-- 📫 I'm <a rel="me" href="https://mastodon.social/@joy" target="_blank">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy" target="_blank">@joy on Twitter</a> ... Say hello!
+- 📫 I'm <a rel="me" href="https://mastodon.social/@joy" target="_blank">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy" target="_blank">@joy on Twitter</a> ... My DMs are open, say hello!
+
 
 
 
