@@ -1,8 +1,8 @@
 ### Welcome (2024 Version)
 
-- 💬 Ask me about tech, marketing, startups, open source, community building, decentralization, web3, or artificial intelligence. Or maybe even ask me about starting a new thing. 👀
+- 💬 Ask me about tech, artificial intelligence, marketing, startups, open source, community building, decentralization, or web3.
 
-- 👩🏻‍💻 Currently working on global marketing, community, and evangelism at ⏁ ZeroTier. 
+- 👩🏻‍💻 Currently working on sales, marketing, community, and evangelism at <a href="https://airtrain.ai">Airtrain.ai</a>. 
 
 - 📜 I was probably on the Internet 🌐 way before you. 😉
 
