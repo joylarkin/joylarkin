@@ -2,7 +2,7 @@
 
 - 💬 Ask me about tech, artificial intelligence, marketing, startups, open source, community building, decentralization, or web3.
 
-- 👩🏻‍💻 Currently working on sales, marketing, community, and evangelism at <a href="https://airtrain.ai">Airtrain.ai</a>. 
+- 👩🏻‍💻 Currently working on go-to-market, sales, marketing, and community at <a href="https://airtrain.ai">Airtrain AI</a>. 
 
 - 📜 I was probably on the Internet 🌐 way before you. 😉
 
