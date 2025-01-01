@@ -1,6 +1,6 @@
 ### Welcome (early 2025 Version)
 
-- 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralization.
+- 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.
 
 - 👩🏻‍💻 Currently working on go-to-market, sales, marketing, and community at <a href="https://airtrain.ai">Airtrain AI</a>. 
 
