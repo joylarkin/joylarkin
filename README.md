@@ -1,4 +1,4 @@
-### Welcome (2024 Version)
+### Welcome (early 2025 Version)
 
 - 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralization.
 
