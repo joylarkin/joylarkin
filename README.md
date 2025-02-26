@@ -2,7 +2,7 @@
 
 - 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.
 
-- 👩🏻‍💻 Currently working on go-to-market, sales, marketing, and community at <a href="https://airtrain.ai">Airtrain AI</a>. 
+- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community. 
 
 - 📜 I was probably on the Internet 🌐 way before you. 😉
 
