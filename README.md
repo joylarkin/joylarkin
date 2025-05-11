@@ -1,16 +1,14 @@
-### Welcome (early 2025 Version)
+### Welcome (Mid 2025 Version)
 
-- 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.
+- 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.  
 
-- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community. 
+- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community.   
 
-- 📜 I was probably on the Internet 🌐 way before you. 😉
+- 📜 I was probably on the Internet 🌐 way before you. 😉   
 
-- 🔗 My personal site is <a rel="me" href="https://cleverhack.com" target="_blank">cleverhack dot com</a>. 
+- 🔗 My personal site is [cleverhack dot com](https://cleverhack.com).   
 
-- 📫 I'm <a rel="me" href="https://mastodon.social/@joy" target="_blank">@joy on mastodon.social</a> or <a rel="me" href="https://twitter.com/joy" target="_blank">@joy on Twitter</a> ... My DMs are open, say hello!
-
-
+- 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!
 
 
 
