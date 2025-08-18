@@ -2,13 +2,21 @@
 
 - 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.  
 
-- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community.   
+- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community. Contact me if you want to collab.  
 
 - 📜 I was probably on the Internet 🌐 way before you. 😉   
 
 - 🔗 My personal site is [cleverhack dot com](https://cleverhack.com).   
 
-- 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!
+- 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
+
+
+### Projects of Interest
+
+- [AI Coding Landscape 2025](https://cleverhack.com/ai-coding-landscape)
+- [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
+- [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
+- [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
 
 
 
