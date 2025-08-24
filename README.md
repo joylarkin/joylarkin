@@ -4,8 +4,6 @@
 
 - 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community. Contact me if you want to collab.  
 
-- 📜 I was probably on the Internet 🌐 way before you. 😉   
-
 - 🔗 My personal site is [cleverhack dot com](https://cleverhack.com).   
 
 - 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
