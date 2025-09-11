@@ -11,10 +11,13 @@
 
 ### Projects of Interest
 
+- [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker)
 - [AI Coding Landscape 2025](https://cleverhack.com/ai-coding-landscape)
 - [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
 - [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
+
+
 
 
 
