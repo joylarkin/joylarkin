@@ -9,7 +9,7 @@
 - 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
 
 
-### Projects of Interest
+### Projects of Interest   [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss2.png)](https://cleverhack.com/feed.xml)   
 
 - [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker)
 - [AI Coding Landscape 2025](https://cleverhack.com/ai-coding-landscape)
