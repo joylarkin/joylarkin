@@ -2,7 +2,7 @@
 
 - 💬 Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, startups, open source software, or community building.  
 
-- 👩🏻‍💻 I greatly enjoy talking to developers and builders. Contact me if you want to work together.
+- 👩🏻‍💻 I greatly enjoy talking to AI researchers, developers, and builders. Contact me if you want to work together.
 
 - 🔗 My personal site is [cleverhack dot com](https://cleverhack.com/2025).   
 
