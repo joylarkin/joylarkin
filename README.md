@@ -1,8 +1,8 @@
 ### Welcome (Mid 2025 Version)
 
-- 💬 Ask me about artificial intelligence, AGI, tech, marketing, startups, open source, community building, or decentralized technology.  
+- 💬 Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, startups, open source software, or community building.  
 
-- 👩🏻‍💻 Currently working on AI go-to-market, marketing, sales, and community. Contact me if you want to collab.  
+- 👩🏻‍💻 I greatly enjoy talking to developers and builders. Contact me if you want to work together.
 
 - 🔗 My personal site is [cleverhack dot com](https://cleverhack.com/2025).   
 
@@ -16,6 +16,8 @@
 - [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
 - [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
+
+
 
 
 
