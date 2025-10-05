@@ -1,4 +1,4 @@
-### Welcome (Mid 2025 Version)
+### Welcome (late 2025 Version)
 
 - 💬 Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, startups, open source software, or community building.  
 
