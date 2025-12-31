@@ -1,12 +1,12 @@
-### Welcome (late 2025 Version)
+### Welcome (2026 Version)
 
-- 💬 Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, startups, open source software, or community building.  
+- Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, the AI startup and venture capital ecosystem, open source software, or community building for developers.  
 
-- 👩🏻‍💻 I greatly enjoy talking to AI researchers, developers, builders, and investors. Contact me if you want to work together.
+- I greatly enjoy talking to AI researchers, developers, builders, and investors. Contact me if you want to work together.
 
-- 🔗 My personal site is [cleverhack dot com](https://cleverhack.com/2025).   
+- My personal site is [cleverhack dot com](https://cleverhack.com/2026).   
 
-- 📫 I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
+- I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
 
 
 ### Projects of Interest   [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss2.png)](https://cleverhack.com/feed.xml)   
