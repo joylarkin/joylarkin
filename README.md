@@ -1,12 +1,12 @@
 ### Welcome (2026 Version)
 
-- Ask me about artificial intelligence, superintelligence, AGI, tech, marketing, the AI startup and venture capital ecosystem, open source software, or community building for developers.  
+- Ask me about artificial intelligence, superintelligence, AGI, tech, the AI startup and venture capital ecosystem, developer marketing/community building for developers, or open source software.  
 
-- I greatly enjoy talking to AI researchers, developers, builders, and investors. Contact me if you want to work together.
+- I greatly enjoy speaking with AI researchers, developers, builders, and investors. Contact me if you want to work together.
 
 - My personal site is [cleverhack dot com](https://cleverhack.com/2026).   
 
-- I'm [@joy on mastodon.social](https://mastodon.social/@joy) or [@joy on Twitter](https://twitter.com/joy) ... My DMs are open, say hello!  
+- I'm [@joy on Twitter](https://twitter.com/joy) or [@joy on mastodon.social](https://mastodon.social/@joy) ... My DMs are open, say hello!  
 
 
 ### Projects of Interest   [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss2.png)](https://cleverhack.com/feed.xml)   
@@ -16,6 +16,9 @@
 - [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
 - [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
+- [Accelerators, Incubators, Residencies and Other Programs for 2026 AI Startup Founders](https://cleverhack.com/2026-ai-startup-founder-resources)
+
+
 
 
 
