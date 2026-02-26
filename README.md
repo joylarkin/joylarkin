@@ -12,6 +12,7 @@
 ### Projects of Interest   [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss2.png)](https://cleverhack.com/feed.xml)   
 
 - [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker)
+- [Neolab and Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker)
 - [AI Coding Landscape 2026](https://cleverhack.com/ai-coding-landscape)
 - [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
