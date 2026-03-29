@@ -2,7 +2,7 @@
 
 - Ask me about artificial intelligence, superintelligence, AGI, tech, the AI startup and venture capital ecosystem, developer marketing/community building for developers, or open source software.  
 
-- I greatly enjoy speaking with AI researchers, developers, builders, and investors. Contact me if you want to work together.
+- I greatly enjoy speaking with AI researchers, builders, and investors. Contact me if you want to work together.
 
 - My personal site is [cleverhack dot com](https://cleverhack.com/2026).   
 
@@ -18,6 +18,8 @@
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
 - [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
 - [Accelerators, Incubators, Residencies and Other Programs for 2026 AI Startup Founders](https://cleverhack.com/2026-ai-startup-founder-resources)
+
+
 
 
 
