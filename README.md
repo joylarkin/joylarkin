@@ -15,9 +15,10 @@
 - [Neolab and Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker)
 - [AI Coding Landscape 2026](https://cleverhack.com/ai-coding-landscape)
 - [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai)
-- [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup)
+- [Global AI Regulations: A Comprehensive Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2026-roundup)
 - [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning)
 - [Accelerators, Incubators, Residencies and Other Programs for 2026 AI Startup Founders](https://cleverhack.com/2026-ai-startup-founder-resources)
+
 
 
 
