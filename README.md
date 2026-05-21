@@ -1,4 +1,4 @@
-### Welcome (2026 Version)
+### Welcome (mid-2026 version)
 
 - Ask me about artificial intelligence, frontier AI, frontier AI labs & neolabs, superintelligence, the AI startup and venture capital ecosystem, developer marketing/community building for developers, tech, or open source software.  
 
