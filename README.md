@@ -1,6 +1,6 @@
 ### Welcome (Fall 2026 version)
 
-- Ask me about artificial intelligence, frontier AI, frontier AI labs & neolabs, superintelligence, the AI startup and venture capital ecosystem, community building for researchers and developers, tech, or open source software.  
+- Ask me about artificial intelligence, frontier AI, frontier AI labs & neolabs, the AI startup and venture capital ecosystem, community building for researchers and developers, tech, or open source.  
 
 - I greatly enjoy speaking with AI researchers, builders, and investors. Contact me if you want to work together.
 
